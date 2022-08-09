@@ -181,6 +181,7 @@
   font-weight: bold;
   text-align: center;
   display: flex;
+  padding-top: 100px;
   margin: 100px auto 0;
 }
 
@@ -191,7 +192,7 @@
   font-weight: normal;
   display: flex;
   justify-content: center;
-  margin: 70px auto 0 605px;
+  margin: 70px auto 0;
 }
 
 .feynman__link {
@@ -315,7 +316,7 @@
 }
 
 .footer__column-link {
-  text-decoration: none;
+  text-decoration-line: none;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -324,6 +325,7 @@
 .footer__column_content_social {
   height: fit-content;
   position: absolute;
+
   top: 33px;
   right: 0;
 }
@@ -334,6 +336,6 @@
   margin-right: 10px;
 }
 
-.column-link:hover {
+.footer__column-link:hover {
   color: #2f80ed;
 }
