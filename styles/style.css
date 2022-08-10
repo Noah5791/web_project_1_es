@@ -269,8 +269,8 @@
   width: 90%;
   margin: 0 auto;
   position: relative;
-  color: white;
   display: flex;
+  justify-content: space-between;
   height: 250px;
 }
 
@@ -278,7 +278,7 @@
   flex-basis: 711px;
 }
 
-.footer .logo {
+.logo {
   width: 183px;
   height: 35px;
 }
@@ -292,19 +292,17 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  color: white;
   position: absolute;
   bottom: 18px;
   left: 0;
 }
 
 .footer__column_content_about {
-  height: fit-content;
-  position: absolute;
-  top: 33px;
-  right: 250px;
 }
 
 .footer__column-heading {
+  color: white;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
@@ -312,10 +310,12 @@
 }
 
 .footer__list {
+  color: white;
   list-style-type: none;
 }
 
 .footer__column-link {
+  color: white;
   text-decoration-line: none;
   line-height: 30px;
   font-size: 18px;
@@ -323,11 +323,6 @@
 }
 
 .footer__column_content_social {
-  height: fit-content;
-  position: absolute;
-
-  top: 33px;
-  right: 0;
 }
 
 .footer__social-icons {
