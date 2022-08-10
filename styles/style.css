@@ -278,12 +278,14 @@
   flex-basis: 711px;
 }
 
-.logo {
+/* .logo {
   width: 183px;
   height: 35px;
-}
+} */
 
 .logo_place_footer {
+  width: 183px;
+  height: 35px;
   top: 0;
   left: 0;
 }
