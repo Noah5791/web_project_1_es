@@ -47,12 +47,13 @@
 @import url(../blocks/content/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/content/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/content/kaufman/kaufman.css);
-@import url(../blocks/content/digits/section-title/_theme_dark/section-title_theme_dark.css);
+
+/* @import url(../blocks/content/digits/section-title/_theme_dark/section-title_theme_dark.css);
 @import url(../blocks/content/digits/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
 @import url(../blocks/content/digits/table/_theme_dark/table_theme_dark.css);
 @import url(../blocks/content/digits/table/__cell/_theme_dark/table__cell_theme_dark.css);
 @import url(../blocks/content/digits/table/__heading/_theme_dark/table__heading_theme_dark.css);
-@import url(../blocks/content/digits/table/__text/_theme_dark/table__text_theme_dark.css);
+@import url(../blocks/content/digits/table/__text/_theme_dark/table__text_theme_dark.css); */
 @import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo-zone/resources__logo-zone.css);

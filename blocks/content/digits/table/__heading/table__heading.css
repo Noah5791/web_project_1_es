@@ -4,5 +4,5 @@
   font-weight: bold;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  outline: solid red 1px;
 }
